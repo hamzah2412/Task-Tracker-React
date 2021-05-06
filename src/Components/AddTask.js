@@ -15,6 +15,7 @@ const onSubmit = (e) => {
         return
     }
 
+    //Add the text, day & reminder once there is text
     onAdd({text, day, reminder})
 
     SetText('')
