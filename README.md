@@ -10,6 +10,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Install the node modules from node.js.
+
 Remember to install node.js from their main website.
 
 ### `npm i react-icons`
