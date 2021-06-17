@@ -1,3 +1,5 @@
+Below is the preview image of the Task-Tracker. Add Tasks using the Add button. Click the 'X' button on the task to delete the task.
+
 ![Task-Tracker](https://user-images.githubusercontent.com/64706364/122359515-32d12000-cf88-11eb-9e2b-80306538cbd8.png)
 
 
