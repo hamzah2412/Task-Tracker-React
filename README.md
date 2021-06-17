@@ -31,6 +31,3 @@ Runs the app in the development mode.\
 Open [http://localhost:5000/tasks](http://localhost:5000/tasks) to view it in the browser.
 
 You would need to reload the page to see the db.json.
-
-
-
