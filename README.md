@@ -1,8 +1,9 @@
 Below is the preview image of the Task-Tracker. Add Tasks using the Add button. Click the 'X' button on the task to delete the task.
 
-![Task-Tracker](https://user-images.githubusercontent.com/64706364/122359515-32d12000-cf88-11eb-9e2b-80306538cbd8.png)
-
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/64706364/122363323-6bbec400-cf8b-11eb-9693-da1f5fa4ec2c.png" />
+</p>
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
