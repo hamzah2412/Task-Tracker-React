@@ -1,4 +1,4 @@
-Below is the preview image of the Task-Tracker. Add Tasks using the Add button. Click the 'X' button on the task to delete the task.
+Below is the preview image of the Task-Tracker. Add Tasks by pressing the Add button and the Add Form would show up. Click the 'X' button on the task to delete the task. Remember to run the server and install react icons.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64706364/122363323-6bbec400-cf8b-11eb-9693-da1f5fa4ec2c.png" />
